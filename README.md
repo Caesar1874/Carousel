@@ -1,1 +1,3 @@
 # Carousel
+轮播组件
+添加图片同目录下创建images文件夹，并在js中修改insertImage函数的参数为图片数量
